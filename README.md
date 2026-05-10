@@ -1140,6 +1140,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[ai-manus](https://github.com/Simpleyyt/ai-manus)** — Self-hostable Manus-style agent with sandboxed Docker environments, Terminal/Browser/File/Search tools, MCP integration, and optional OpenClaw (Claw) integration for one-click deployment.
 
+- **[AgentBoot](https://github.com/Agnuxo1/AgentBoot)** *(P2PCLAW)* — One-command AI agent deployment platform with bare-metal hardware detection, browser-based local LLM inference, and autonomous agent bootstrapping. Zero-config setup for research agents. MIT. → [Website](https://www.p2pclaw.com)
+
 ### Multi-Agent / Orchestration Frameworks
 
 - **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)** — Multi-agent orchestrator for CLI coding agents (Claude Code, Codex CLI, Gemini CLI, and 34 more). Deterministic Python scheduler, first-class MCP server, file-based state, quality gates, cost tracking. Apache-2.0.
